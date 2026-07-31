@@ -5,3 +5,4 @@
 ](https://docs.google.com/presentation/d/e/2PACX-1vRndN-OmfbiWM8H1MmYNRa0bHydluhuQ-TL1rHMbODnuoIPyfLYZETfB1eHAorvYDbHU5lzQAf7vEcO/pub?start=false&loop=false&delayms=3000)
 3. [Tools setup
 ](https://docs.google.com/presentation/d/e/2PACX-1vTtyrP3MuE_mNWw3C5SHjtlRi8pWGqlWlxUqhJL8dK_J-BT704Sbp6qdGsxi8o7-cdqXGLZmp2sGWCA/pub?start=false&loop=false&delayms=3000)
+4. [How computer works](https://docs.google.com/presentation/d/e/2PACX-1vQj7YyqFSXAr5qk7FZd7xy7PmFNVsS8pWm0Nkq0waF0GXSjnbjIxLbxOWF1dq7OoLbPGzywOkBKrnjv/pub?start=false&loop=false&delayms=3000)
